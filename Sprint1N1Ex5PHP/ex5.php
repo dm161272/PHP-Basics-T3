@@ -19,7 +19,8 @@ array_push ($array_2, 55);
 
 $array_res = array_merge ($array_1, $array_2);
 
-echo print_r ($array_res, true) . "<br><br>";
+echo print_r ($array_res, true) . "<br /><br />";
+echo count ($array_res) . "<br />";
 
 foreach ($array_res as $value) {
     echo $value . " ";
