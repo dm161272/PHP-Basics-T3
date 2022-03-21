@@ -48,13 +48,13 @@ echo "$double_n % $double_m = " . floor($double_n) % floor($double_m) . "<br>";
 
 echo "<br>";
 
-echo "$int_x ** 2 = " . $int_x**2 . "<br>";
-echo "$int_y ** 2 = " . $int_y**2 . "<br>";
+echo "$int_x * 2 = " . $int_x*2 . "<br>";
+echo "$int_y * 2 = " . $int_y*2 . "<br>";
 
 echo "<br>";
 
-echo "$double_n ** 2 = " . $double_n**2 . "<br>";
-echo "$double_m ** 2 = " . $double_m**2 . "<br>";
+echo "$double_n * 2 = " . $double_n*2 . "<br>";
+echo "$double_m * 2 = " . $double_m*2 . "<br>";
 
 echo "<br>";
 
